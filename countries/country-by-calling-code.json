@@ -198,7 +198,7 @@
 {"country" : "Pitcairn Islands", "calling_code" : "+64"},
 {"country" : "Poland", "calling_code" : "+48"},
 {"country" : "Portugal", "calling_code" : "+351"},
-{"country" : "Puerto Rico", "calling_code" : "+1787,", "calling_code" : "+1939"},
+{"country" : "Puerto Rico", "calling_code" : "+1787,+1939"},
 {"country" : "Qatar", "calling_code" : "+974"},
 {"country" : "Réunion", "calling_code" : "+262"},
 {"country" : "Romania", "calling_code" : "+40"},
