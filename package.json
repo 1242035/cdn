@@ -1,0 +1,14 @@
+{
+  "name": "vndis-cdn",
+  "version": "1.0",
+  "description": "Vndis cdn",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/1242035/cdn.git"
+  },
+  "keywords": [
+    "cdn"
+  ],
+  "author": "Meo chuot",
+  "license": "MIT"
+}
