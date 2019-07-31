@@ -1,0 +1,13 @@
+{
+    "header":{
+        "consultation": "AIへ無料相談",
+        "guide": "簡単ガイド",
+        "help": "ヘルプ",
+        "signup": "登録する",
+        "login": "ログイン",
+        "search_placeholder": "エリア・職種を選択してください",
+        "unspecified": "指定なし",
+        "theme": "テーマ",
+        "period": "期間"
+    }
+}
